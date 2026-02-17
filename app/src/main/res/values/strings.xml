@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Notestag</string>
+    <string name="main_title">Список задач</string>
+    <string name="create_task_title">Новая задача</string>
+    <string name="task_title_hint">Название задачи</string>
+    <string name="task_description_hint">Текст задачи</string>
+    <string name="select_tags">Выберите теги</string>
+    <string name="save">Сохранить</string>
+    <string name="status_title">Статус задачи</string>
+    <string name="status_not_started">Не начата</string>
+    <string name="status_in_progress">В процессе</string>
+    <string name="status_done">Готова</string>
+    <string name="add_custom_tag_title">Свои теги и группы</string>
+    <string name="custom_tag_group_hint">Группа (можно оставить пустым)</string>
+    <string name="custom_tag_name_hint">Название тега</string>
+    <string name="add_tag_button">Добавить тег</string>
+    <string name="group_without_name">Без группы</string>
+    <string name="button_filter">Фильтр</string>
+    <string name="button_sort">Сортировка</string>
+    <string name="dialog_filter_title">Фильтрация по тегам</string>
+    <string name="dialog_sort_title">Сортировка задач</string>
+    <string name="sort_by_date">По дате создания</string>
+    <string name="sort_by_importance">По важности</string>
+    <string name="sort_by_urgency">По срочности</string>
+    <string name="sort_by_title">По алфавиту</string>
+    <string name="sort_by_sphere">По сфере</string>
+    <string name="clear_filters">Сбросить фильтр</string>
+</resources>
+
